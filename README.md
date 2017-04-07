@@ -1,7 +1,8 @@
 # hello-world
-Test github repo
-I know nothing about github
-Trying to learn
+
+Learning
 
 I did a pull request then a merge
 This is a second set of edits
+
+3rd edit
